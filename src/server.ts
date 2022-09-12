@@ -1,6 +1,6 @@
 import express from 'express'
 
-import { logger } from './utils/logger.mjs'
+import { logger } from './utils/logger'
 
 const app = express()
 
